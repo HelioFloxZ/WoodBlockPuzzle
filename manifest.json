@@ -1,5 +1,6 @@
 {
   "name": "Wood Block Puzzle",
+  "description": "A classic wood block puzzle game.",
   "short_name": "WoodBlock",
   "start_url": ".",
   "display": "standalone",
