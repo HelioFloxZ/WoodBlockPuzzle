@@ -1,7 +1,7 @@
 {
   "name": "Wood Block Puzzle",
-  "description": "A classic wood block puzzle game.",
   "short_name": "WoodBlock",
+  "description": "An epic and classic wood block puzzle game.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#110b08",
@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
